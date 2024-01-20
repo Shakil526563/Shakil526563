@@ -5,14 +5,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shakil526563?tab=repositories](https://github.com/Shakil526563?tab=repositories)
 
+- 💬 Ask me about **Machine learning Algorithms,Android Development(Flutter)**
+
 - 📫 How to reach me **shakil15-3816@diu.edu.bd**
 
 - ⚡ Fun fact **I Think ,I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shakil rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakil rana" height="30" width="40" /></a>
-<a href="https://fb.com/shakil rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil rana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shakil-rana-a1b383256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakil-rana-a1b383256/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mdshakil.m.mdshakil.942/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshakil.m.mdshakil.942/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
