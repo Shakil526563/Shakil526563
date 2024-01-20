@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil526563&label=Profile%20views&color=0e75b6&style=flat" alt="shakil526563" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shakil526563?tab=repositories](https://github.com/Shakil526563?tab=repositories)
+- Currently, I'm studying **BSc in Computer Science and Engineering at Daffodil International University. And working on a research paper under Health Informatics Research Lab.**
+
+- 👯I have interest **in research area, Problem solving, App development. Data science**
+
+- 🤝I’m looking to collaborate **with other developers for winning Hackathons and Open Source contributions.**
 
 - 💬 Ask me about **Machine learning Algorithms,Android Development(Flutter)**
 
