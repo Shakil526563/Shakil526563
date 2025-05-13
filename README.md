@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil526563&label=Profile%20views&color=0e75b6&style=flat" alt="shakil526563" /> </p>
 
-- 🔭Currently, I'm studying **BSc in Computer Science and Engineering at Daffodil International University. And working on a research paper under Health Informatics Research Lab.**
+- 🔭i compeleted my **BSc in Computer Science and Engineering at Daffodil International University. And worked on a research paper under Health Informatics Research Lab.**
 
 - 👯I have interest **in research area, Problem solving, App development. Data science**
 
