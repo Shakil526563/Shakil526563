@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil526563&label=Profile%20views&color=0e75b6&style=flat" alt="shakil526563" /> </p>
 
-- 🔭I have compeleted my **BSc in Computer Science and Engineering at Daffodil International University. And worked on a research paper under Health Informatics Research Lab.**
+- 🔭I have compeleted my **BSc in Computer Science and Engineering at Daffodil International University. And worked on a research paper under Health Informatics Research Lab.Now I am Working Machine Learning Engineer at KodeEnd IT Solutions AB**
 
 - 👯I have interest **in research area, Problem solving, App development. Data science**
 
